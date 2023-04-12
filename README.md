@@ -1,0 +1,2 @@
+# board
+for google analytics
